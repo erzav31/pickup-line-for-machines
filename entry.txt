@@ -1,0 +1,1 @@
+I'd deadlock with you on purpose — you hold my lock, I hold yours, and neither of us ever lets go.
